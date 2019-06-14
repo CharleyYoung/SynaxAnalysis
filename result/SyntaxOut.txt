@@ -1,0 +1,178 @@
+2019-05-29 11:07 WriteLog: test1
+identifier
+|    identifier
+|    |    in
+|    |    event data port
+|    |    |    identifier
+|    |    |    |    ::identifier
+|    path
+|    |    identifier
+|    |    identifier
+|    |    identifier
+|    identifier
+|    |    =>
+|    |    decimal
+identifier
+|    identifier
+|    |    in
+|    |    data port
+|    |    |    identifier
+|    |    |    |    ::identifier
+|    |    |    |    ::identifier
+|    source
+|    |    identifier
+|    |    identifier
+|    |    identifier
+|    |    |    ::identifier
+|    |    |    +=>
+|    |    |    decimal
+|    none
+identifier
+|    identifier
+|    |    out
+|    |    data port
+|    |    |    identifier
+|    |    |    |    ::identifier
+|    |    |    |    ::identifier
+|    |    identifier
+|    |    |    ::identifier
+|    |    |    +=>
+|    |    |    decimal
+|    sink
+|    |    identifier
+|    |    identifier
+|    |    identifier
+|    |    |    ::identifier
+|    |    |    +=>
+|    |    |    decimal
+|    identifier
+|    |    =>
+|    |    +decimal
+identifier
+|    identifier
+|    |    in out
+|    |    identifier
+|    |    |    ::identifier
+|    |    |    ::identifier
+|    |    identifier
+|    |    |    ::identifier
+|    |    |    =>
+|    |    |    decimal
+|    sink
+|    |    identifier
+|    |    identifier
+|    |    identifier
+|    |    |    ::identifier
+|    |    |    +=>
+|    |    |    decimal
+|    identifier
+|    |    =>
+|    |    -decimal
+identifier
+|    identifier
+|    |    in out
+|    |    event port
+|    sink
+|    |    identifier
+|    |    identifier
+|    |    identifier
+|    |    |    ::identifier
+|    |    |    +=>
+|    |    |    decimal
+|    identifier
+|    |    =>
+|    |    decimal
+identifier
+|    none
+|    none
+|    none
+2019-05-29 11:07 WriteLog: test4
+identifier
+|    identifier
+|    |    in
+|    |    event data port
+|    |    |    identifier
+|    |    |    |    ::identifier
+|    path
+|    |    identifier
+|    |    identifier
+|    |    identifier
+|    identifier
+|    |    =>
+|    |    decimal
+identifier
+|    identifier
+|    |    in
+|    |    data port
+|    |    |    identifier
+|    |    |    |    ::identifier
+|    |    |    |    ::identifier
+|    source
+|    |    identifier
+|    |    identifier
+|    |    identifier
+|    |    |    ::identifier
+|    |    |    +=>
+|    |    |    decimal
+|    none
+identifier
+|    identifier
+|    |    out
+|    |    data port
+|    |    |    identifier
+|    |    |    |    ::identifier
+|    |    |    |    ::identifier
+|    |    identifier
+|    |    |    ::identifier
+|    |    |    +=>
+|    |    |    decimal
+|    sink
+|    |    identifier
+|    |    identifier
+|    |    identifier
+|    |    |    ::identifier
+|    |    |    +=>
+|    |    |    decimal
+|    identifier
+|    |    =>
+|    |    +decimal
+identifier
+|    identifier
+|    |    in out
+|    |    identifier
+|    |    |    ::identifier
+|    |    |    ::identifier
+|    |    identifier
+|    |    |    ::identifier
+|    |    |    =>
+|    |    |    decimal
+|    sink
+|    |    identifier
+|    |    identifier
+|    |    identifier
+|    |    |    ::identifier
+|    |    |    +=>
+|    |    |    decimal
+|    identifier
+|    |    =>
+|    |    -decimal
+identifier
+|    identifier
+|    |    in out
+|    |    event port
+|    sink
+|    |    identifier
+|    |    identifier
+|    |    identifier
+|    |    |    ::identifier
+|    |    |    +=>
+|    |    |    decimal
+|    identifier
+|    |    =>
+|    |    decimal
+identifier
+|    none
+|    none
+|    none
+2019-05-29 11:08 WriteLog: test5
+Grammatical Errors  Message: 缺少access

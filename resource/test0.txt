@@ -1,0 +1,8 @@
+thread Thread5
+features
+	AP_Position_Input : in out event port;
+flows
+        flow1: flow sink signal {result1::result2 +=> constant access 50.0};
+properties
+	size => constant access 50.0;
+end Thread5;
